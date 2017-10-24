@@ -1,0 +1,354 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2A61DE031F9FA02A00554C58 /* loveji StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 2A61DE021F9FA02A00554C58 /* loveji StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		2A61DE071F9FA02A00554C58 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 2A61DE061F9FA02A00554C58 /* Stickers.xcstickers */; };
+		2A61DE081F9FA02A00554C58 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 2A61DE061F9FA02A00554C58 /* Stickers.xcstickers */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2A61DE041F9FA02A00554C58 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2A61DDF81F9FA02A00554C58 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2A61DE011F9FA02A00554C58;
+			remoteInfo = "loveji StickerPackExtension";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		2A61DE0E1F9FA02A00554C58 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				2A61DE031F9FA02A00554C58 /* loveji StickerPackExtension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		2A61DDFE1F9FA02A00554C58 /* loveji.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = loveji.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A61DE021F9FA02A00554C58 /* loveji StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "loveji StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A61DE061F9FA02A00554C58 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = "loveji StickerPackExtension/Stickers.xcstickers"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2A61DDF71F9FA02A00554C58 = {
+			isa = PBXGroup;
+			children = (
+				2A61DE061F9FA02A00554C58 /* Stickers.xcstickers */,
+				2A61DDFF1F9FA02A00554C58 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2A61DDFF1F9FA02A00554C58 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2A61DDFE1F9FA02A00554C58 /* loveji.app */,
+				2A61DE021F9FA02A00554C58 /* loveji StickerPackExtension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2A61DDFD1F9FA02A00554C58 /* loveji */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2A61DE0F1F9FA02A00554C58 /* Build configuration list for PBXNativeTarget "loveji" */;
+			buildPhases = (
+				2A61DDFC1F9FA02A00554C58 /* Resources */,
+				2A61DE0E1F9FA02A00554C58 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2A61DE051F9FA02A00554C58 /* PBXTargetDependency */,
+			);
+			name = loveji;
+			productName = loveji;
+			productReference = 2A61DDFE1F9FA02A00554C58 /* loveji.app */;
+			productType = "com.apple.product-type.application.messages";
+		};
+		2A61DE011F9FA02A00554C58 /* loveji StickerPackExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2A61DE0B1F9FA02A00554C58 /* Build configuration list for PBXNativeTarget "loveji StickerPackExtension" */;
+			buildPhases = (
+				2A61DE001F9FA02A00554C58 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "loveji StickerPackExtension";
+			productName = "loveji StickerPackExtension";
+			productReference = 2A61DE021F9FA02A00554C58 /* loveji StickerPackExtension.appex */;
+			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2A61DDF81F9FA02A00554C58 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0900;
+				ORGANIZATIONNAME = "Alexander Iashchuk";
+				TargetAttributes = {
+					2A61DDFD1F9FA02A00554C58 = {
+						CreatedOnToolsVersion = 9.0.1;
+						ProvisioningStyle = Automatic;
+					};
+					2A61DE011F9FA02A00554C58 = {
+						CreatedOnToolsVersion = 9.0.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 2A61DDFB1F9FA02A00554C58 /* Build configuration list for PBXProject "loveji" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2A61DDF71F9FA02A00554C58;
+			productRefGroup = 2A61DDFF1F9FA02A00554C58 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2A61DDFD1F9FA02A00554C58 /* loveji */,
+				2A61DE011F9FA02A00554C58 /* loveji StickerPackExtension */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2A61DDFC1F9FA02A00554C58 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2A61DE081F9FA02A00554C58 /* Stickers.xcstickers in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2A61DE001F9FA02A00554C58 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2A61DE071F9FA02A00554C58 /* Stickers.xcstickers in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2A61DE051F9FA02A00554C58 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2A61DE011F9FA02A00554C58 /* loveji StickerPackExtension */;
+			targetProxy = 2A61DE041F9FA02A00554C58 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		2A61DE091F9FA02A00554C58 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		2A61DE0A1F9FA02A00554C58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2A61DE0C1F9FA02A00554C58 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3NL9BUS2QV;
+				INFOPLIST_FILE = "loveji StickerPackExtension/Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.stickers.loveji.StickerPackExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2A61DE0D1F9FA02A00554C58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3NL9BUS2QV;
+				INFOPLIST_FILE = "loveji StickerPackExtension/Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.stickers.loveji.StickerPackExtension;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		2A61DE101F9FA02A00554C58 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3NL9BUS2QV;
+				INFOPLIST_FILE = loveji/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.stickers.loveji;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2A61DE111F9FA02A00554C58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3NL9BUS2QV;
+				INFOPLIST_FILE = loveji/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.iashchuk.stickers.loveji;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2A61DDFB1F9FA02A00554C58 /* Build configuration list for PBXProject "loveji" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2A61DE091F9FA02A00554C58 /* Debug */,
+				2A61DE0A1F9FA02A00554C58 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2A61DE0B1F9FA02A00554C58 /* Build configuration list for PBXNativeTarget "loveji StickerPackExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2A61DE0C1F9FA02A00554C58 /* Debug */,
+				2A61DE0D1F9FA02A00554C58 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2A61DE0F1F9FA02A00554C58 /* Build configuration list for PBXNativeTarget "loveji" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2A61DE101F9FA02A00554C58 /* Debug */,
+				2A61DE111F9FA02A00554C58 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2A61DDF81F9FA02A00554C58 /* Project object */;
+}
