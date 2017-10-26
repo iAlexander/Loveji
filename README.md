@@ -16,7 +16,7 @@ Each pack includes 20 perfectly made stickers featuring original artwork.
 
 ## <a name="license">License:</a>
  
-Copyright © 2017 <a href="https://emojininjas.com">David Codamo</a> & <a href="https://iashchuk.com">Alexander Iashchuk</a>.
+Copyright © 2017 <a href="http://iexpress.me">Joy RAE Me Inc</a>, developed by <a href="https://iashchuk.com">Alexander Iashchuk</a>.
 
 ## <a name="contact">Contact:</a>
 
