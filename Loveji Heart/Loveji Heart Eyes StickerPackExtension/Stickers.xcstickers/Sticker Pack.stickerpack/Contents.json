@@ -1,0 +1,71 @@
+{
+  "stickers" : [
+    {
+      "filename" : "lovejishearteyes.sticker"
+    },
+    {
+      "filename" : "lovejigoodmorning.sticker"
+    },
+    {
+      "filename" : "lovejicrazyinlove.sticker"
+    },
+    {
+      "filename" : "lovejiConfused.sticker"
+    },
+    {
+      "filename" : "lovejiangry.sticker"
+    },
+    {
+      "filename" : "lovejiasad.sticker"
+    },
+    {
+      "filename" : "lovejicrazy.sticker"
+    },
+    {
+      "filename" : "lovejihappy---2.sticker"
+    },
+    {
+      "filename" : "lovejihugging.sticker"
+    },
+    {
+      "filename" : "lovejilonging.sticker"
+    },
+    {
+      "filename" : "lovejiloughing.sticker"
+    },
+    {
+      "filename" : "lovejiok.sticker"
+    },
+    {
+      "filename" : "lovejipouting.sticker"
+    },
+    {
+      "filename" : "lovejiPrayerful.sticker"
+    },
+    {
+      "filename" : "lovejireallyangry.sticker"
+    },
+    {
+      "filename" : "lovejisleepy.sticker"
+    },
+    {
+      "filename" : "lovejiteasing.sticker"
+    },
+    {
+      "filename" : "lovejithinking.sticker"
+    },
+    {
+      "filename" : "lovejiverysad.sticker"
+    },
+    {
+      "filename" : "lovejiwishfull.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
