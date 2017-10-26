@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/App_version-1.0-blue.svg?style=flat)](#)
 [![AppStore](https://img.shields.io/badge/App_Store-Soon...-brightgreen.svg?style=flat)](#)
 
-## Loveji & Hoshi - 4 romantic sticker packs for iMessage chats, available on <a href="#">App Store</a> soon...
+## Loveji & Hoshi - 4 sticker packs for iMessage chats, available on <a href="#">App Store</a> soon...
 1. [Description](#description)
 3. [License](#license)
 4. [Contact](#contact)
