@@ -13,19 +13,16 @@
       "filename" : "LovejiFlirt.sticker"
     },
     {
-      "filename" : "LovejiHappy.sticker"
-    },
-    {
       "filename" : "LovejiHeartEyes.sticker"
     },
     {
-      "filename" : "LovejiHugging.sticker"
+      "filename" : "LovejiHug.sticker"
     },
     {
       "filename" : "LovejiLaughing.sticker"
     },
     {
-      "filename" : "LovejiNo.sticker"
+      "filename" : "LovejiPrayerful.sticker"
     },
     {
       "filename" : "LovejiSad.sticker"
@@ -34,7 +31,10 @@
       "filename" : "LovejiSleepy.sticker"
     },
     {
-      "filename" : "LovejiYes.sticker"
+      "filename" : "LovejiTeasing.sticker"
+    },
+    {
+      "filename" : "LovejiVerySad.sticker"
     }
   ],
   "info" : {
