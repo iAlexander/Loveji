@@ -15,7 +15,7 @@ Each pack includes 20 perfectly made stickers featuring original artwork.
 
 ## <a name="license">License:</a>
  
-Copyright © 2017-2018 <a href="http://iexpress.me">Joy Rae Me Inc</a>, developed by <a href="https://iashchuk.com">Alexander Iashchuk</a>.
+Copyright © 2017-2018 <a href="http://gamesofeveryone.com">Games of Everyone Inc</a>, developed by <a href="http://iashchuk.com">Alexander Iashchuk</a>.
 
 ## <a name="contact">Contact:</a>
 
