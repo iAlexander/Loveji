@@ -276,7 +276,7 @@
 				DEVELOPMENT_TEAM = 3V5X457KQ4;
 				INFOPLIST_FILE = "Loveji Blowing Kisses StickerPackExtension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.joyraeme.Loveji-Blowing-Kisses.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = "kalindi.loveji.heart-kisses.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -291,7 +291,7 @@
 				DEVELOPMENT_TEAM = 3V5X457KQ4;
 				INFOPLIST_FILE = "Loveji Blowing Kisses StickerPackExtension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.joyraeme.Loveji-Blowing-Kisses.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = "kalindi.loveji.heart-kisses.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -306,7 +306,7 @@
 				DEVELOPMENT_TEAM = 3V5X457KQ4;
 				INFOPLIST_FILE = "Loveji Blowing Kisses/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.joyraeme.Loveji-Blowing-Kisses";
+				PRODUCT_BUNDLE_IDENTIFIER = "kalindi.loveji.heart-kisses";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -320,7 +320,7 @@
 				DEVELOPMENT_TEAM = 3V5X457KQ4;
 				INFOPLIST_FILE = "Loveji Blowing Kisses/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.joyraeme.Loveji-Blowing-Kisses";
+				PRODUCT_BUNDLE_IDENTIFIER = "kalindi.loveji.heart-kisses";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
