@@ -3,43 +3,43 @@
     {
       "size" : "29x29",
       "idiom" : "iphone",
-      "filename" : "Icon-Small@2x.png",
+      "filename" : "29x2.png",
       "scale" : "2x"
     },
     {
       "size" : "29x29",
       "idiom" : "iphone",
-      "filename" : "Icon-Small@3x.png",
+      "filename" : "29x3.png",
       "scale" : "3x"
     },
     {
       "size" : "60x45",
       "idiom" : "iphone",
-      "filename" : "Messages60x45@2x.png",
+      "filename" : "45x2.png",
       "scale" : "2x"
     },
     {
       "size" : "60x45",
       "idiom" : "iphone",
-      "filename" : "Messages60x45@3x.png",
+      "filename" : "45x3.png",
       "scale" : "3x"
     },
     {
       "size" : "29x29",
       "idiom" : "ipad",
-      "filename" : "Icon-Small@2x-1.png",
+      "filename" : "29x2-1.png",
       "scale" : "2x"
     },
     {
       "size" : "67x50",
       "idiom" : "ipad",
-      "filename" : "Messages67x50@2x.png",
+      "filename" : "50x2.png",
       "scale" : "2x"
     },
     {
       "size" : "74x55",
       "idiom" : "ipad",
-      "filename" : "Messages74x55@2x.png",
+      "filename" : "55x2.png",
       "scale" : "2x"
     },
     {
@@ -51,28 +51,28 @@
     {
       "size" : "27x20",
       "idiom" : "universal",
-      "filename" : "Messages27x20@2x.png",
+      "filename" : "20x2.png",
       "scale" : "2x",
       "platform" : "ios"
     },
     {
       "size" : "27x20",
       "idiom" : "universal",
-      "filename" : "Messages27x20@3x.png",
+      "filename" : "20x3.png",
       "scale" : "3x",
       "platform" : "ios"
     },
     {
       "size" : "32x24",
       "idiom" : "universal",
-      "filename" : "Messages32x24@2x.png",
+      "filename" : "24x2.png",
       "scale" : "2x",
       "platform" : "ios"
     },
     {
       "size" : "32x24",
       "idiom" : "universal",
-      "filename" : "Messages32x24@3x.png",
+      "filename" : "24x3.png",
       "scale" : "3x",
       "platform" : "ios"
     },
