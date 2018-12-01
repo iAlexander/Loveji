@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2A97634621B2C2220092D5DB /* holiday spirit StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 2A97634521B2C2220092D5DB /* holiday spirit StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		2A97634621B2C2220092D5DB /* Loveji Holiday Spirit StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 2A97634521B2C2220092D5DB /* Loveji Holiday Spirit StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		2A97634A21B2C2220092D5DB /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 2A97634921B2C2220092D5DB /* Stickers.xcstickers */; };
 		2A97634B21B2C2220092D5DB /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 2A97634921B2C2220092D5DB /* Stickers.xcstickers */; };
 /* End PBXBuildFile section */
@@ -29,7 +29,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				2A97634621B2C2220092D5DB /* holiday spirit StickerPackExtension.appex in Embed App Extensions */,
+				2A97634621B2C2220092D5DB /* Loveji Holiday Spirit StickerPackExtension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -37,8 +37,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		2A97634121B2C2220092D5DB /* holiday spirit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "holiday spirit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2A97634521B2C2220092D5DB /* holiday spirit StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "holiday spirit StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A97634121B2C2220092D5DB /* Loveji Holiday Spirit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Loveji Holiday Spirit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A97634521B2C2220092D5DB /* Loveji Holiday Spirit StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Loveji Holiday Spirit StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A97634921B2C2220092D5DB /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = "holiday spirit StickerPackExtension/Stickers.xcstickers"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,8 +54,8 @@
 		2A97634221B2C2220092D5DB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2A97634121B2C2220092D5DB /* holiday spirit.app */,
-				2A97634521B2C2220092D5DB /* holiday spirit StickerPackExtension.appex */,
+				2A97634121B2C2220092D5DB /* Loveji Holiday Spirit.app */,
+				2A97634521B2C2220092D5DB /* Loveji Holiday Spirit StickerPackExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -63,9 +63,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2A97634021B2C2220092D5DB /* holiday spirit */ = {
+		2A97634021B2C2220092D5DB /* Loveji Holiday Spirit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A97635221B2C2220092D5DB /* Build configuration list for PBXNativeTarget "holiday spirit" */;
+			buildConfigurationList = 2A97635221B2C2220092D5DB /* Build configuration list for PBXNativeTarget "Loveji Holiday Spirit" */;
 			buildPhases = (
 				2A97633F21B2C2220092D5DB /* Resources */,
 				2A97635121B2C2220092D5DB /* Embed App Extensions */,
@@ -75,14 +75,14 @@
 			dependencies = (
 				2A97634821B2C2220092D5DB /* PBXTargetDependency */,
 			);
-			name = "holiday spirit";
+			name = "Loveji Holiday Spirit";
 			productName = "holiday spirit";
-			productReference = 2A97634121B2C2220092D5DB /* holiday spirit.app */;
+			productReference = 2A97634121B2C2220092D5DB /* Loveji Holiday Spirit.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
-		2A97634421B2C2220092D5DB /* holiday spirit StickerPackExtension */ = {
+		2A97634421B2C2220092D5DB /* Loveji Holiday Spirit StickerPackExtension */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A97634E21B2C2220092D5DB /* Build configuration list for PBXNativeTarget "holiday spirit StickerPackExtension" */;
+			buildConfigurationList = 2A97634E21B2C2220092D5DB /* Build configuration list for PBXNativeTarget "Loveji Holiday Spirit StickerPackExtension" */;
 			buildPhases = (
 				2A97634321B2C2220092D5DB /* Resources */,
 			);
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = "holiday spirit StickerPackExtension";
+			name = "Loveji Holiday Spirit StickerPackExtension";
 			productName = "holiday spirit StickerPackExtension";
-			productReference = 2A97634521B2C2220092D5DB /* holiday spirit StickerPackExtension.appex */;
+			productReference = 2A97634521B2C2220092D5DB /* Loveji Holiday Spirit StickerPackExtension.appex */;
 			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
 		};
 /* End PBXNativeTarget section */
@@ -114,7 +114,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2A97633E21B2C2220092D5DB /* Build configuration list for PBXProject "holiday spirit" */;
+			buildConfigurationList = 2A97633E21B2C2220092D5DB /* Build configuration list for PBXProject "Loveji Holiday Spirit" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -126,8 +126,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2A97634021B2C2220092D5DB /* holiday spirit */,
-				2A97634421B2C2220092D5DB /* holiday spirit StickerPackExtension */,
+				2A97634021B2C2220092D5DB /* Loveji Holiday Spirit */,
+				2A97634421B2C2220092D5DB /* Loveji Holiday Spirit StickerPackExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -154,7 +154,7 @@
 /* Begin PBXTargetDependency section */
 		2A97634821B2C2220092D5DB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2A97634421B2C2220092D5DB /* holiday spirit StickerPackExtension */;
+			target = 2A97634421B2C2220092D5DB /* Loveji Holiday Spirit StickerPackExtension */;
 			targetProxy = 2A97634721B2C2220092D5DB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -333,7 +333,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2A97633E21B2C2220092D5DB /* Build configuration list for PBXProject "holiday spirit" */ = {
+		2A97633E21B2C2220092D5DB /* Build configuration list for PBXProject "Loveji Holiday Spirit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A97634C21B2C2220092D5DB /* Debug */,
@@ -342,7 +342,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2A97634E21B2C2220092D5DB /* Build configuration list for PBXNativeTarget "holiday spirit StickerPackExtension" */ = {
+		2A97634E21B2C2220092D5DB /* Build configuration list for PBXNativeTarget "Loveji Holiday Spirit StickerPackExtension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A97634F21B2C2220092D5DB /* Debug */,
@@ -351,7 +351,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2A97635221B2C2220092D5DB /* Build configuration list for PBXNativeTarget "holiday spirit" */ = {
+		2A97635221B2C2220092D5DB /* Build configuration list for PBXNativeTarget "Loveji Holiday Spirit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A97635321B2C2220092D5DB /* Debug */,
