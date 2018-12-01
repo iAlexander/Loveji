@@ -8,7 +8,7 @@ public class StickersDataFactory {
     public static List<Sticker> getAllStickerReference() {
         String[] stickerURLRef = {
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-0.png?alt=media&token=30859cb3-0d30-41fe-a1cf-a38f76c3cc35",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-0.png?alt=media&token=7557029a-710e-4252-96cb-19eb337a3584",
 
                 "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-01.png?alt=media&token=fb0974ec-3919-42e0-800a-33c1e59b1d8e",
 
