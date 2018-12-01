@@ -33,19 +33,19 @@
     {
       "size" : "67x50",
       "idiom" : "ipad",
-      "filename" : "67x50.png",
+      "filename" : "50x2.png",
       "scale" : "2x"
     },
     {
       "size" : "74x55",
       "idiom" : "ipad",
-      "filename" : "74x55.png",
+      "filename" : "55x2.png",
       "scale" : "2x"
     },
     {
       "size" : "1024x1024",
       "idiom" : "ios-marketing",
-      "filename" : "x1024.png",
+      "filename" : "1024x1024.png",
       "scale" : "1x"
     },
     {
