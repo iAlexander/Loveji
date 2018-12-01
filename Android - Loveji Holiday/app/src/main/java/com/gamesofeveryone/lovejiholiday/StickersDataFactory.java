@@ -8,33 +8,31 @@ public class StickersDataFactory {
     public static List<Sticker> getAllStickerReference() {
         String[] stickerURLRef = {
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-01.png?alt=media&token=ffc220b1-6260-4ccd-8a7c-1e9431396f1c",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-0.png?alt=media&token=30859cb3-0d30-41fe-a1cf-a38f76c3cc35",
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-01.png?alt=media&token=ffc220b1-6260-4ccd-8a7c-1e9431396f1c",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-01.png?alt=media&token=fb0974ec-3919-42e0-800a-33c1e59b1d8e",
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-01.png?alt=media&token=ffc220b1-6260-4ccd-8a7c-1e9431396f1c",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-02.png?alt=media&token=cfc02130-5c13-49bd-8b52-08ccd761c7bd",
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-02.png?alt=media&token=b6cae751-9de0-4cef-9761-bea45914ecef",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-03.png?alt=media&token=45d1536d-b9cc-4cf6-8f05-e15360509aa1",
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-03.png?alt=media&token=0dd3abd4-523b-4d46-b3d5-1495854ea821",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-04.png?alt=media&token=7c69bbd4-2562-4ea6-9a33-229997a2d42e",
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-04.png?alt=media&token=417d0b79-bca3-4974-94d1-251b76158bee",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-05.png?alt=media&token=71c59305-0bf5-4bea-bfd4-cfe02d347577",
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-05.png?alt=media&token=b0043759-142a-49c9-a407-c9128298ba9c",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-06.png?alt=media&token=a10ca40e-d61d-4a66-91eb-00c32ef3ba52",
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-06.png?alt=media&token=4a42fff4-d38f-4742-b17c-cc6e3b719b0c",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-07.png?alt=media&token=18b50ca0-4742-41b9-82a8-b54aee553504",
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-07.png?alt=media&token=f99f4429-9ced-4037-b55d-2a3a4ac0ad4e",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-08.png?alt=media&token=80db1834-73b4-42f7-840e-88309297f594",
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-08.png?alt=media&token=93de8619-34e8-46c6-91b8-4fc68edffa8f",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-09.png?alt=media&token=54990c13-c7b2-4430-af03-7e97b6ab483a",
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-09.png?alt=media&token=3f74beaf-da8f-467a-840a-8fd340023a43",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-10.png?alt=media&token=bacb3403-8ab5-4841-a9ab-0fe98eb9cfcf",
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-10.png?alt=media&token=c3cb1bf0-152f-4b3a-93db-7e3474642ae0",
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-11.png?alt=media&token=81418c82-f853-4fe0-8ed9-7ea7172a50d2",
 
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-11.png?alt=media&token=969d8e8e-eadd-4e9e-9cd8-0996ed9ecf33",
-
-                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejhearts-12.png?alt=media&token=549fbca5-75d4-4772-b8b0-5830432e2d32"
+                "https://firebasestorage.googleapis.com/v0/b/loveji-stickers.appspot.com/o/lovejiholiday-12.png?alt=media&token=cd2676d0-96e6-42c7-95d2-024f5b19b2e7"
         };
         List<Sticker> stickerList = new ArrayList<>();
         for (int i = 0; i < stickerURLRef.length; i++) {
