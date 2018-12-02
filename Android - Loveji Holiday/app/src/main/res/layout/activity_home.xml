@@ -24,7 +24,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="70dp"
-        android:text="Loveji Holiday Spirit"
+        android:text="Loveji Holiday Spirit Stickers"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
 
     <Button

@@ -7,7 +7,7 @@ android {
         applicationId "com.gamesofeveryone.lovejiholiday"
         minSdkVersion 14
         targetSdkVersion 27
-        versionCode 9
+        versionCode 69
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
