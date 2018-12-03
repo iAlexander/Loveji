@@ -1,7 +1,7 @@
 [![Language](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)](#)
 [![Platform](https://img.shields.io/badge/iOS-10.0-lightgray.svg?style=flat)](#)
 [![Devices](https://img.shields.io/badge/Devices-iMessage_on_iPhone_and_iPad-green.svg?style=flat)](#)
-[![Version](https://img.shields.io/badge/App_version-3.1-blue.svg?style=flat)](#)
+[![Version](https://img.shields.io/badge/App_version-4.0-blue.svg?style=flat)](#)
 
 ## Loveji & Hoshi - sticker packs for iMessage chats and for Gboard keyboard.
 1. [Description](#description)
